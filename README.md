@@ -13,7 +13,7 @@ Useful stuff to work with Battefield: Heroes™ sound and/or music files.
 
 (this one requires you to install SOX from the requirements folder)
 
-**IN-GAME AMBIENCE SOUNDS** *(i never tested this one actually, not guarenteed to work)*
+**IN-GAME AMBIENCE SOUNDS** *(i never tested this one actually, not guaranteed to work)*
 
 `oggenc.exe -b 112.001000 -s 0000194a %1`
 
