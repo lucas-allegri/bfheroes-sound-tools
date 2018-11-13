@@ -32,3 +32,18 @@ Useful stuff to work with Battefield: Heroes™ sound and/or music files.
 5. at this point you should have your fresh .wav/.ogg file ready to use, if you don't, get a better pc
 
 or browse the internet for help idk.
+
+## credits
+Apache Thunder for letting me know about bf2 sound tools.
+
+discord: Apache Thunder#1696
+
+the actual creator of BF2 sound tools, she/he's the mvp here
+
+i was unable to find him/her but anyways, thanks <3
+
+(most of stuff remains exactly the same except for in-game sounds encoding)
+
+bixxy for being a cute emo lol
+
+discord: Kebab#9412
