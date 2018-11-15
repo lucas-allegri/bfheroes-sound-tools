@@ -15,15 +15,15 @@ Useful stuff to work with Battefield: Heroes™ sound and/or music files.
 
 **IN-GAME AMBIENCE SOUNDS** *(i never tested this one actually, not guaranteed to work)*
 
-`oggenc.exe -b 112.001000 -s 0000194a %1`
+`oggenc.exe -b 112.001000 -s 0000194a file_name.wav`
 
 **LOADING MAP MUSIC**
 
-`oggenc.exe -b 112.001000 -s 00002811 %1`
+`oggenc.exe -b 112.001000 -s 00002811 file_name.wav`
 
 **FLASHMENU CLIENT MUSIC**
 
-`oggenc.exe -b 112.001000 -s 000035af %1`
+`oggenc.exe -b 112.001000 -s 000035af file_name.wav`
 
 3. wait for it.
 
