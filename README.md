@@ -9,7 +9,7 @@ Useful stuff to work with Battefield: Heroes™ sound and/or music files.
 
 **IN-GAME SOUND** *(eg. weapons, bullets?)*
 
-`sox %1 -b 32 -s -c 1 -r 44100 file_name.wav`
+`sox in.wav -b 32 -s -c 1 -r 44100 out.wav`
 
 (this one requires you to install SOX from the requirements folder)
 
