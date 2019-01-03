@@ -1,11 +1,11 @@
-# bfheroes-sound-tools
+# Battlefield: Heroes Sound Tools
 Useful stuff to work with Battefield: Heroes™ sound and/or music files.
 
 ## How to use
 
-1. find a __.wav__ file you want to convert. *(mp3 files just no)*
+1. Find a __.wav__ file you want to convert. *(mp3 files just no)*
 
-2. open a command prompt inside this folder and run any of these commands depending which task you'd like to perform:
+2. Open a command prompt inside this folder and run any of these commands depending which task you'd like to perform:
 
 **IN-GAME SOUND** *(eg. weapons, bullets?)*
 
@@ -25,13 +25,9 @@ Useful stuff to work with Battefield: Heroes™ sound and/or music files.
 
 `oggenc.exe -b 112.001000 -s 000035af file_name.wav`
 
-3. wait for it.
+3. Wait for it.
 
-4. keep waiting.
-
-5. at this point you should have your fresh .wav/.ogg file ready to use, if you don't, get a better pc
-
-or browse the internet for help idk.
+5. At this point you should have your fresh .wav/.ogg file ready to use!
 
 ## Possible thanks to
 - Apache Thunder for letting me know about bf2 sound tools.
