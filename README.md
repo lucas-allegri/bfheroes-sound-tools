@@ -1,7 +1,7 @@
 # bfheroes-sound-tools
 Useful stuff to work with Battefield: Heroes™ sound and/or music files.
 
-## eli5
+## How to use
 
 1. find a __.wav__ file you want to convert. *(mp3 files just no)*
 
@@ -33,17 +33,7 @@ Useful stuff to work with Battefield: Heroes™ sound and/or music files.
 
 or browse the internet for help idk.
 
-## credits
-Apache Thunder for letting me know about bf2 sound tools.
-
-discord: Apache Thunder#1696
-
-the actual creator of BF2 sound tools, she/he's the mvp here
-
-i was unable to find him/her but anyways, thanks <3
-
-(most of stuff remains exactly the same except for in-game sounds encoding)
-
-bixxy for being a cute emo lol
-
-discord: Kebab#9412
+## Possible thanks to
+- Apache Thunder for letting me know about bf2 sound tools.
+Discord: `Apache Thunder#1696`
+- Original distributor of BF2 sound tools, I was unable to track him/her.
